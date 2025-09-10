@@ -14,7 +14,4 @@ O objetivo do exercício é calcular a **redução do tempo de vida de um fumant
 - Considerar que **cada cigarro reduz 10 minutos de vida**.  
 - Calcular e exibir o total de **dias de vida perdidos**.
 
----
-
-## Exemplo de execução
 
