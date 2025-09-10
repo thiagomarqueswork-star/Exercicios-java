@@ -1,17 +1,36 @@
-# Exercicios-java
-Exercícios propostos em aula na linguagem Java
+# Exercícios em Java 🚀
 
-# Exercício de Java: Redução do Tempo de Vida de um Fumante 🚬
+Este repositório contém exercícios feitos em aula para praticar conceitos de **Java**, incluindo entrada de dados, operações matemáticas e testes unitários com **JUnit 5**.
 
-Este exercício foi proposto em aula para praticar conceitos básicos de **Java**, como entrada de dados, variáveis e operações matemáticas.
+---
 
-## Descrição
+## Exercício: Redução do Tempo de Vida de um Fumante 🚬
 
-O objetivo do exercício é calcular a **redução do tempo de vida de um fumante** com base nos seguintes critérios:
+Este programa calcula a redução do tempo de vida de um fumante com base na quantidade de cigarros fumados por dia e nos anos que ele fuma.  
 
-- Perguntar ao usuário **quantos cigarros ele fuma por dia**.  
-- Perguntar há **quantos anos ele fuma**.  
-- Considerar que **cada cigarro reduz 10 minutos de vida**.  
-- Calcular e exibir o total de **dias de vida perdidos**.
+**Objetivos do exercício:**
+- Praticar leitura de dados do usuário com `Scanner`.  
+- Trabalhar com variáveis inteiras (`int`).  
+- Realizar operações matemáticas básicas.  
+- Aprender a formatar a saída de dados para o usuário.
+
+---
+
+## Exercício: Calculadora com JUnit 🧮
+
+Este exercício implementa uma calculadora com operações básicas e potência, além de testes unitários com **JUnit 5** para validar os métodos.  
+
+**Operações disponíveis:**
+- Soma (`soma`)  
+- Subtração (`sub`)  
+- Multiplicação (`mult`)  
+- Divisão (`div`)  
+- Potência (`poten`)
+
+**Objetivos do exercício:**
+- Aprender a criar classes e métodos em Java.  
+- Praticar operações matemáticas básicas.  
+- Introduzir testes unitários com **JUnit 5**.  
+- Garantir que os métodos retornem resultados corretos automaticamente.
 
 
